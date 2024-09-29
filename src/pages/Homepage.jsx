@@ -194,7 +194,7 @@ const Homepage = () => {
                 <div className='lg:w-[45%] lg:relative flex flex-col bg-[#ffffff] bg-opacity-10 md:px-[4rem] py-[1rem] px-[1rem] lg:px-0 md:py-[4rem] rounded-full items-center h-full justify-center mx-auto  '>
                     <div className='max-w-[569px] lg:w-[90%]  flex flex-col max-h-[554px] lg:h-[484px] p-[2rem] md:p-[6rem] items-center mx-auto justify-around  bg-white shadow-2xl rounded-full'>
                         <div className='w-full h-full flex items-center justify-center rounded-full shadow-2xl'>
-                            <img src={pic1} alt='tag1'/>
+                            <img src={pic1} alt='tag1' className='rounded-full'/>
                         </div>
                     </div>
                 </div>
