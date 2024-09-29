@@ -1,5 +1,5 @@
 import React from 'react'
-import pic from "../assets/Без имени-1 1.svg";
+import pic from "../assets/Без имени-1 1.jpg";
 
 const Card = ({cardContent , currentCard , setCurrentCard }) => {
   return (

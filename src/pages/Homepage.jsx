@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Navbar from '../Components/Navbar'
 import bg1 from "../assets/Vector 1.svg"
-import pic1 from "../assets/Без имени-1 1.svg"
+import pic1 from "../assets/Без имени-1 1.jpg"
 import { useNavigate } from 'react-router-dom'
 import {FaArrowLeft ,FaCircle , FaArrowRight} from "react-icons/fa"
 import {BsMouse} from "react-icons/bs"
